@@ -1,3 +1,5 @@
 hello world... second change
 new text
 another feature
+
+nowe zmiany
